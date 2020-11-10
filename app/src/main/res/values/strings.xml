@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">placesAPI</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="types">
+        <item></item>
+        <item>restaurants</item>
+        <item>  accounting</item>
+        <item>   airport</item>
+        <item>  amusement_park</item>
+        <item>    aquarium</item>
+
+        <item>    atm</item>
+        <item>    bakery</item>
+        <item>    bank</item>
+        <item>   bar</item>
+        <item>   beauty_salon</item>
+        <item>  bicycle_store</item>
+        <item>    book_store</item>
+        <item>         bowling_alley</item>
+        <item> bus_station</item>
+        <item> cafe</item>
+        <item>    campground</item>
+
+    </string-array>
+</resources>
